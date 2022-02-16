@@ -9,7 +9,7 @@ import os
 import sys
 from mdisk import mdisk
 
-api = os.environ.get("5080926412:AAEavqxH_7KAO6Dvz9ikyi_0qMPzJiKoyF4")
+api = os.environ.get("5294889438:AAH0NzjF53NVWsaDsSkDhlhbmyLaqbKA5ew")
 d = Mdisk(api)
 
 @click.group()
